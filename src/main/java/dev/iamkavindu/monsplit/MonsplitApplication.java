@@ -10,5 +10,4 @@ public class MonsplitApplication implements AppShellConfigurator {
     public static void main(String[] args) {
         SpringApplication.run(MonsplitApplication.class, args);
     }
-
 }
